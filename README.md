@@ -34,9 +34,7 @@ TestNG middleware for https://vigoreport.io
 ## #Happy Testing #Happy Reporting
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gmWTtFSpFpw
-" target="_blank">
-<img src="http://img.youtube.com/vi/gmWTtFSpFpw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="500" height="350" border="10" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gmWTtFSpFpw" target="_blank">
+<img src="http://img.youtube.com/vi/gmWTtFSpFpw/0.jpg" alt="IMAGE ALT TEXT HERE" width="500" height="350" border="10" />
 </a>
 
